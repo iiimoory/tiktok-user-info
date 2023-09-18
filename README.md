@@ -23,7 +23,7 @@ echo $getTiktokUser->details('@evikza'); // or evikza
     "code": 200,
     "user": {
         "id": "7265945350605997074",
-        "username": null,
+        "username": "emxh",
         "profileName": "Mohammad.",
         "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/2f5e7abcdb14360bd2a42a9d7deb8b02.jpeg?x-expires=1695189600&x-signature=WZtOV6RYHZbWqWsowZXR8mRyWUY%3D",
         "description": "",
