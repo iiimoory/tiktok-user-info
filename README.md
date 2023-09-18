@@ -52,6 +52,10 @@ echo $getTiktokUser->details('@emxh');
 
 ```code
 0.0.1
+0.0.1 — Fixed User-Agent.
+
+0.0.2 — Fixed User-Agent.
+        Fixed (regex) lookup of JSON data on the page.
 ```
 
 ### Orginal
