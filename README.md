@@ -20,22 +20,22 @@ echo $getTiktokUser->details('@evikza'); // or evikza
 
 ```json
 {
-  "code": 200,
-  "user": {
-    "id": "6827579470812759045",
-    "username": "Евгений Заречнев",
-    "profileName": "evikza",
-    "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/fe013a3c3fdb0e10e12edd1473d248f5.jpeg?x-expires=1674608400&x-signature=8CAqRvVxqiIiWXyjk1u4kKcFslQ%3D",
-    "description": "",
-    "region": "RU",
-    "verified": false
-  },
-  "stats": {
-    "following": 10,
-    "follower": 1,
-    "video": 2,
-    "like": 3
-  }
+    "code": 200,
+    "user": {
+        "id": "7265945350605997074",
+        "username": null,
+        "profileName": "Mohammad.",
+        "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/2f5e7abcdb14360bd2a42a9d7deb8b02.jpeg?x-expires=1695189600&x-signature=WZtOV6RYHZbWqWsowZXR8mRyWUY%3D",
+        "description": "",
+        "region": "US",
+        "verified": false
+    },
+    "stats": {
+        "following": 0,
+        "follower": 505,
+        "video": 1,
+        "like": 17
+    }
 }
 ```
 
