@@ -11,7 +11,7 @@ A dead-simple PHP package gives TikTok users statistics
 
 $getTiktokUser = new TikTok\Users();
 
-echo $getTiktokUser->details('@emxh'); // or evikza
+echo $getTiktokUser->details('@emxh');
 ```
 
 ### Example responses 
