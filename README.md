@@ -60,4 +60,4 @@ echo $getTiktokUser->details('@emxh');
 
 ### Orginal
 
-###### nothing
+https://github.com/evikza/tiktok-user-stats
