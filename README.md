@@ -1,4 +1,4 @@
-# tiktok-users-stats
+# tiktok-users-info
 A dead-simple PHP package gives TikTok users statistics
 
 
